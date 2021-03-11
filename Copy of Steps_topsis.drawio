@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T22:00:07.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="rKgMsIC0rxVqFxYvR1K_" version="14.4.4" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">5VnbctowEP0aHtPxBezkMZCQ0iadtqTJ9FG1N7Ya2XIkOUC/vitbwrhmgKSTC8MLWEeLLJ2zZxdMzx9l8wtBivSKx8B6nhPPe/5Zz/NO+gG+amBRAwPPAImgcQ25DTClf8CAFi1pDLIVqDhnihZtMOJ5DpFqYUQIPmuH3XHWvmtBEugA04iwLnpLY5XW6LEXNvhHoElq7+wGJ/VMRmywUwMyJTGfrUD+ec8fCc5VfZXNR8A0d5aX28nill3eBxefvskH8mP4+frLzVG92PgpH1keQUCunr30OBdh5k1Oft1kpz/PvnM6mU6OPL9e+5Gw0hBmDqsWlkGIkVAz5EKlPOE5YecNOmzQS84LDHMR/A1KLUw+kFJxhFKVMTO745HM0SUvRQQb4swxFBEJqA3nNdrqI62khyHsAngGSiwwQAAjij62c4iYVEyWcQ3deGEYf4Kw68gPGO5/eMeRllUVgoeS24kjWbF6igFuv5g3k3iV6PdrXkgqcfoKUJjYLop7rNetozpCz1KqYFqQiukZVoO2ZPqzRk8XORsmjEjNiIPXUgl+vzSYjl66xXmy2o8gFMw36mNnHeNNU5ysVWeN072+wdIVl4fO/yu6Nr/c473z0yafbPWTrfKvb6hN215hf0RYVOKtQZ8m1a85FxlhyGOsuxpEVFKe1/Ve0HlHLczjQl9KBdoPBQiKewVhoK/NeLjNP3QOtkHqcUwFNjx9c1yKlzphX84o4aBlFDfoOuVkjVFc78Wc0tVqL51iHbDdKv13ZRW77zXNRxYkt02i659ZlR6Ve7ZZadl2Vlc8EIf5a3rR6zrMLrz3Duvv6rDB+3JYv8P/mc7jjOaNmyYxEL0SyStDQVJt7MjCU85KncDyQFwzcN7cNevq4j66ZrCra8L35ZrBDt/hJCBPRJluA0SWAg7FIsHxW1vEDToSfSf5/VKdQsAdIA2RHnARI8OHIQ3+HH1rbWy12vvyFe5avoL3Vb7CHcrXciueEzEuIQepn9YgpTaCmv4vD6z/H/ff3EDd/jOmyQdEOk/VnDHjsyglQnXUweOrNsv1E7IRZ1xLlPMcKuoZ+wfC31OJZj5Cpiv1NJk0IuzUTGQ0jiuTrpP1xXTyvXalc32/I5QbBl2lniEUDpun6tXcyl8T/vlf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-11T22:01:52.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="j6Y-QuRMCAP_FNNzgJaz" version="14.4.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="946" dy="526" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-23" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Fnr7m2I9bVmAYDRoiISI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Topsis Method&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="100" y="20" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fnr7m2I9bVmAYDRoiISI-9" target="Fnr7m2I9bVmAYDRoiISI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-9" value="Calculate the normalized decision matrix" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="175" y="160" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-19" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fnr7m2I9bVmAYDRoiISI-11" target="Fnr7m2I9bVmAYDRoiISI-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-11" value="&lt;span&gt;Calculate the weighted normalized decision matrix&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="175" y="320" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-20" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fnr7m2I9bVmAYDRoiISI-14" target="Fnr7m2I9bVmAYDRoiISI-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-14" value="Determine the Ideal and negative-Ideal Solutions" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="175" y="500" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-21" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fnr7m2I9bVmAYDRoiISI-15" target="Fnr7m2I9bVmAYDRoiISI-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-15" value="Calculate the separation measures" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="175" y="680" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-16" value="Rank the preference order" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="175" y="1000" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-22" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fnr7m2I9bVmAYDRoiISI-17" target="Fnr7m2I9bVmAYDRoiISI-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-17" value="Calculate the relative closeness to the ideal solutions" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="175" y="840" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Fnr7m2I9bVmAYDRoiISI-25" value="Fig. Topsis Method Flowchart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="132" y="1133" width="176" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
